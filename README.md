@@ -1,4 +1,4 @@
-HealthCare
+HEALTH-A-PLENTY Web application 
 
 Abstract
 
