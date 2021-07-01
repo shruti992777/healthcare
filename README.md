@@ -2,8 +2,8 @@ HealthCare
 
 Abstract
 
-A single Healthcare platform for doctors,healthcare center and pharmacists.
-It is a informational website related healthcare detail provided by different Doctor, HealthCare Center , Pharmacists detail about them & inquiry form for patient who want to use this facility.
+A single Healthcare platform for doctors,healthcare center and pharmacies.
+It is a informational website related healthcare detail provided by different Doctor, HealthCare Center , Pharmacies detail about them & inquiry form for patient who want to use this facility.
 patient will get appoitment for doctor in click. Pharmacies will sell their medicines to patients that the doctor has recommended them.
 
 
